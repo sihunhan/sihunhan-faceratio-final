@@ -1,0 +1,6 @@
+numpy
+opencv-python==4.8.1.0
+streamlit
+av
+streamlit-webrtc
+mediapipe==0.10.9
